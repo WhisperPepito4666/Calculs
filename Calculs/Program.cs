@@ -30,6 +30,7 @@ namespace Calculs
                 val1 = rand.Next(1, 10);
                 val2 = rand.Next(1, 10);
                 // traitement des choix
+                //truc modifié
                 switch (choix)
                 {
                     case "1": // addition
